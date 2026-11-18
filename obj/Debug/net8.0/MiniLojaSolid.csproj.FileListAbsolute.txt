@@ -1,0 +1,14 @@
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\bin\Debug\net8.0\MiniLojaSolid.exe
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\bin\Debug\net8.0\MiniLojaSolid.deps.json
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\bin\Debug\net8.0\MiniLojaSolid.runtimeconfig.json
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\bin\Debug\net8.0\MiniLojaSolid.dll
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\bin\Debug\net8.0\MiniLojaSolid.pdb
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.AssemblyInfoInputs.cache
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.AssemblyInfo.cs
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.csproj.CoreCompileInputs.cache
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.dll
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\refint\MiniLojaSolid.dll
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.pdb
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\MiniLojaSolid.genruntimeconfig.cache
+C:\Users\65138624.IST\Documents\S.O.L.I.D\MiniLojaSolid\obj\Debug\net8.0\ref\MiniLojaSolid.dll
